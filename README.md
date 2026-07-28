@@ -1,6 +1,6 @@
-# VaporStack ⚡
+# GoHTMX ⚡
 
-**VaporStack** is a modern, high-concurrency, full-stack application template designed for developers who want the structure and ergonomics of an enterprise framework without the bloat of heavy Single Page Application (SPA) runtimes. 
+**GoHTMX** is a modern, high-concurrency, full-stack application template designed for developers who want the structure and ergonomics of an enterprise framework without the bloat of heavy Single Page Application (SPA) runtimes. 
 
 It combines **Goravel** (Go), **HTMX**, and **Alpine.js** to deliver lightning-fast server-rendered HTML with seamless micro-interactivity and zero client-side build complexity.
 
@@ -29,7 +29,7 @@ Modern web development has largely defaulted to heavyweight stacks (like Next.js
 ## 📁 Project Directory Structure
 
 ```text
-vaporstack/
+htmx/
 ├── app/
 │   ├── http/
 │   │   ├── controllers/      # Handles business logic and returns HTML views/partials
