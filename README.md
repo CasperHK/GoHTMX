@@ -20,7 +20,7 @@ Modern web development has largely defaulted to heavyweight stacks (like Next.js
 ## 🏗️ Architecture & Technology Stack
 
 * **Backend / MVC & Routing:** [Goravel](https://goravel.dev) (Go) — Modular, enterprise-grade Go framework [1.1.2].
-* **Server-Driven Interactions:** [HTMX 2.x](https://htmx.org) — Attributes-driven AJAX requests and DOM swapping [00:01:32, 00:02:52].
+* **Server-Driven Interactions:** [HTMX 4.x](https://htmx.org) — Attributes-driven AJAX requests and DOM swapping [00:01:32, 00:02:52].
 * **Local UI State / Reactivity:** [Alpine.js](https://alpinejs.dev) — Lightweight declarative JavaScript for local DOM behavior.
 * **Database & Persistence:** PostgreSQL via Goravel ORM.
 
